@@ -5,7 +5,7 @@ cp ./spotify.dcol ~/.config/hyde/wallbash/always/
 cp ./spotify.sh ~/.config/hyde/wallbash/scripts/
 
 config_file="$HOME/.config/spicetify/config-xpui.ini"
-sed -i 's/current_theme[[:space:]]*=[[:space:]]*Sleek/current_theme          = StarryNight_wallbash/g' "$config_file"
+sed -i 's/current_theme/current_theme          = StarryNight_wallbash/g' "$config_file"
 
 spicetify apply
 
