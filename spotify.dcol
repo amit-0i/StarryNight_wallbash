@@ -1,0 +1,31 @@
+$HOME/.config/spicetify/Themes/star/color.ini|${WALLBASH_SCRIPTS}/spotify.sh
+[wallbash]
+star                    = <wallbash_2xa9>
+star-glow               = <wallbash_2xa9>
+shooting-star           = <wallbash_3xa9>
+shooting-star-glow      = <wallbash_4xa9>
+
+main                    = 000000 ; becomes 100% transparent via javascript
+main-elevated           = <wallbash_pry1>
+card                    = <wallbash_2xa3>
+
+sidebar                 = <wallbash_pry1> ; bottom part of sky
+sidebar-alt             = <wallbash_pry1> ; top part of sky
+
+text                    = <wallbash_txt1>
+subtext                 = <wallbash_4xa7>
+
+button-active           = <wallbash_2xa9>
+button                  = <wallbash_2xa7>
+button-disabled         = <wallbash_2xa4>
+
+highlight               = <wallbash_2xa3>
+highlight-elevated      = <wallbash_2xa3> 
+
+shadow                  = 000000
+selected-row            = <wallbash_3xa9>
+misc                    = <wallbash_4xa7>
+notification-error      = <wallbash_1xa9> 
+notification            = <wallbash_2xa2>
+tab-active              = <wallbash_1xa2>
+player                  = <wallbash_pry3>
