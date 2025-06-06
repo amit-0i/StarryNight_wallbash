@@ -1,6 +1,6 @@
 #!/bin/bash
 
-cp -r ./star ~/.config/spicetify/Themes/StarryNight_wallbash
+cp -r ./StarryNight_wallbash ~/.config/spicetify/Themes/StarryNight_wallbash
 cp ./spotify.dcol ~/.config/hyde/wallbash/always/
 cp ./spotify.sh ~/.config/hyde/wallbash/scripts/
 
