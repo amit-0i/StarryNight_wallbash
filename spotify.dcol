@@ -1,4 +1,4 @@
-$HOME/.config/spicetify/Themes/star/color.ini|${WALLBASH_SCRIPTS}/spotify.sh
+$HOME/.config/spicetify/Themes/StarryNight_wallbash/color.ini|${WALLBASH_SCRIPTS}/spotify.sh
 [wallbash]
 star                    = <wallbash_2xa9>
 star-glow               = <wallbash_2xa9>
