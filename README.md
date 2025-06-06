@@ -27,7 +27,8 @@ chmod +x ./install.sh
 chmod +x ~/.config/hyde/wallbash/scripts/spotify.sh
 ```
 
-If you are using light theme, the theme might look a little bad. in that case, you can delete the `theme.js` file.
+If you are using light theme, the theme might look a little bad. in that case, you can delete the `theme.js` file. 
+this removed the stars and all from the background.
 ```sh
 rm ~/.config/spicetify/Themes/StarryNight_wallbash/theme.js
 ```
