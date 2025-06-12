@@ -67,7 +67,7 @@ EOF
 if (pkg_installed spotify && pkg_installed spicetify-cli) || [ -n "$spotify_path" ]; then
 
 
-    if [ "$(spicetify config | awk '{if ($1=="color_scheme") print $2}')" != "Wallbash" ] || [[ "${*}" == *"--reset"* ]]; then
+    if [ "$(spicetify config | awk '{if ($1=="color_scheme") print $2}')" != "wallbash" ] || [[ "${*}" == *"--reset"* ]]; then
         configure_spicetify "$spotify_path" "$cacheDir"
     fi
 
